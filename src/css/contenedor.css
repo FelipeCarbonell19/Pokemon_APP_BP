@@ -1,0 +1,36 @@
+.contenedor{
+    background-color: #EF5350;
+    border-radius: 12px;
+    width: 250px;
+    height: 293px;
+    margin: 10px;
+}
+
+img{
+    width: 200px;
+}
+
+.canecatbn{
+    border: none;
+    width: 90px;
+    height: 40px;
+    margin: 3px;
+    border-radius: 7px;
+    color: white;
+    font-size: 15px;
+    background-color: rgba(255, 181, 176, .5);  
+}
+
+.canecatbn:hover{
+    background-color: white;
+    color: #EF5350;
+    transition: 0.5s;
+}
+
+.spCard{
+  background-color: rgba(253, 198, 194, 0.5);
+  height: 1.5px;
+  width: 85%;
+  border: none;
+  margin-bottom: 5px;
+}

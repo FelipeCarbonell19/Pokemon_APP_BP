@@ -2,3 +2,4 @@ Netlify
 https://tourmaline-pie-cc1bed.netlify.app
 
 AWS
+https://main.d33lrl3eu1q3d5.amplifyapp.com
